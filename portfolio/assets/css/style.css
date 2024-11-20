@@ -1,0 +1,52 @@
+        body {
+            background-color: #191f36;
+            color: white;
+            scroll-behavior: smooth;
+        }
+        .navbar {
+            background-color: #282b4b;
+        }
+        .btn-primary {
+            background-color: #5982F4;
+            border: none;
+        }
+        .btn-primary:hover {
+            background-color: black;
+            color: white;
+        }
+        .portfolio-box img {
+            width: 100%;
+            border-radius: 15px;
+        }
+        .skill-bar {
+            background:#191f36;
+            height: 20px;
+            border-radius: 10px;
+        }
+        .skill-percentage {
+            background: blue;
+            height: 100%;
+            border-radius: 10px;
+        }
+        #home {
+            height: 100vh; 
+            display: flex;
+            align-items: center; 
+            background-color: #262840; 
+            color: white;
+        }
+        #about {
+            background-color: #2a2d45; 
+        }
+        #skills {
+            background-color: #303661; 
+        }
+        #projects {
+            background-color: #262840; 
+        }
+        #contact {
+            background-color: #2a2d45; 
+        }
+        .footer {
+            background-color: #191f36;
+        }
